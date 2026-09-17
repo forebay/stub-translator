@@ -1,7 +1,7 @@
 {
   "name": "stub-translator",
   "version": "1.1.0",
-  "description": "The reference vendor translator for the intisy-ai ecosystem: the smallest thing that satisfies the Translator SPI, kept green against every gate.",
+  "description": "The reference vendor translator for the forebay ecosystem: the smallest thing that satisfies the Translator SPI, kept green against every gate.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -9,10 +9,10 @@
   "author": "intisy",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intisy-ai/stub-translator.git"
+    "url": "git+https://github.com/forebay/stub-translator.git"
   },
   "keywords": [
-    "intisy-ai",
+    "forebay",
     "vendor-translator",
     "ir",
     "example",
